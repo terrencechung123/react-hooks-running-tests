@@ -10,7 +10,7 @@
 In this lab, we'll discuss how the tests are set up for the labs in a typical
 React application, and give some tips for running tests.
 
-Fork and clone this lesson by navigating to the GitHub repo with the "OctoCat"
+Fork and clone this lesson by navigating to the GitHub repo with the "OctoCat"◊
 icon above so you can code along!
 
 ## Running Jest Tests
